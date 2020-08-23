@@ -1,0 +1,67 @@
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.initialized.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.csproj.GenerateResource.Cache
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.ImageURLAdded.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedIsfeatured.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.configurationstable.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.imageURLinProducts.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.addedBesicValidations.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.addedCategoryIDInProduct.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.initialized.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.ImageURLAdded.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedIsfeatured.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.configurationstable.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.imageURLinProducts.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.addedBesicValidations.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.addedCategoryIDInProduct.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.csproj.GenerateResource.Cache
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedOrderandOrderItemsTable.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedQuantityInOrderItems.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Database.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.initialized.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.ImageURLAdded.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedIsfeatured.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.configurationstable.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.imageURLinProducts.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.addedBesicValidations.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.addedCategoryIDInProduct.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedOrderandOrderItemsTable.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.Migrations.AddedQuantityInOrderItems.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.csproj.GenerateResource.Cache
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Database\obj\Debug\GamingProductShop.Database.pdb

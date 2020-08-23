@@ -1,0 +1,323 @@
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\ApplicationInsights.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.exe
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.exe.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.rsp
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\csi.exe
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\csi.rsp
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\System.AppContext.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.exe
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.exe.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.rsp
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Antlr3.Runtime.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\EntityFramework.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\EntityFramework.SqlServer.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Web.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Newtonsoft.Json.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Owin.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Helpers.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Mvc.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Optimization.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Razor.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Razor.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\WebGrease.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Helpers.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Mvc.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Optimization.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.Razor.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Razor.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Antlr3.Runtime.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Newtonsoft.Json.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\EntityFramework.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\EntityFramework.SqlServer.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Web.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.Migrations.InitialCreate.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.csproj.GenerateResource.Cache
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.Migrations.ImageURLAdded.resources
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.Migrations.addedBesicValidations.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\ApplicationInsights.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.exe
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.exe.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.rsp
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\csi.exe
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\csi.rsp
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\System.AppContext.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.exe
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.exe.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.rsp
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Antlr3.Runtime.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\EntityFramework.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\EntityFramework.SqlServer.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Web.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Newtonsoft.Json.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Owin.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Helpers.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Mvc.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Optimization.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Razor.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Razor.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\WebGrease.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\EntityFramework.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\EntityFramework.SqlServer.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Helpers.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Mvc.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Optimization.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.Razor.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Razor.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Antlr3.Runtime.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Newtonsoft.Json.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Web.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.Migrations.AddedNewPropertiesToUser.resources
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.csproj.GenerateResource.Cache
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\ApplicationInsights.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.exe
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.exe.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\csc.rsp
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\csi.exe
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\csi.rsp
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\System.AppContext.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.exe
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.exe.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\vbc.rsp
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductshop.web.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Antlr3.Runtime.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\EntityFramework.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\EntityFramework.SqlServer.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Web.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Newtonsoft.Json.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Owin.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Helpers.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Mvc.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Optimization.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Razor.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Razor.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\WebGrease.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Services.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\EntityFramework.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\EntityFramework.SqlServer.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Helpers.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Mvc.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Optimization.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.Razor.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\System.Web.WebPages.Razor.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Antlr3.Runtime.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Newtonsoft.Json.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\Microsoft.AI.Web.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\bin\GamingProductShop.Database.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.Migrations.AddedNewPropertiesToUser.resources
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.csproj.GenerateResource.Cache
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductshop.web\obj\Debug\GamingProductshop.web.pdb

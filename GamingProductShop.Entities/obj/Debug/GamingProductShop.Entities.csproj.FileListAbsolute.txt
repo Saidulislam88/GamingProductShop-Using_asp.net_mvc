@@ -1,0 +1,30 @@
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sydpe\documents\visual studio 2017\Projects\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\Documents\Visual Studio 2017\Projects\2nd\4rth\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.dll.config
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\GamingProductShop.Entities.pdb
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.dll
+C:\Users\sydpe\Downloads\Compressed\GamingProductShop\GamingProductShop\GamingProductShop.Entities\obj\Debug\GamingProductShop.Entities.pdb
